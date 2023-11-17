@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1638045499 source:s:\self help\learning coding languages and concepts\music player\music player v2\musicplayer\musicplayertest.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+	<sys/types.h>
+	<dirent.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1638031538 source:s:\self help\learning coding languages and concepts\dll.c
+
